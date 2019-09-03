@@ -1,14 +1,12 @@
-# APP-Tracking
-Tracking the desktop applications in real time and time spent on each application on PC
+Tracking the desktop applications in real time and time spent on each application.
 
 Dependencies:
-selenium
 
-Windows Depencies:
+- selenium
 
-pywin32
 
-python-dateutil
+Windows Depencies
 
-uiautomation
-
+- pywin32
+- python-dateutil
+- uiautomation 
