@@ -1,4 +1,4 @@
-Tracking the desktop applications in real time and time spent on each application.
+Tracking the PC-Desktop applications in real time and time spent on each application.
 
 Dependencies:
 
